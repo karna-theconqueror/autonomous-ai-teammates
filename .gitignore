@@ -1,0 +1,9 @@
+**/node_modules/
+**/dist/
+**/.env
+**/.env.local
+**/.data/
+**/npm-debug.log
+**/.DS_Store
+**/vite.config.*.timestamp*
+**/*.tsbuildinfo
